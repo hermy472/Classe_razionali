@@ -1,6 +1,6 @@
 #include <math.h>
 #include <iostream>
-
+/*modifica*/
 using namespace std;
 
 struct razionale
